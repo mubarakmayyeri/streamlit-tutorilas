@@ -38,7 +38,7 @@ deactivate () {
 # unset irrelevant variables
 deactivate nondestructive
 
-VIRTUAL_ENV="C:\Users\mubar_dyaglyf\OneDrive\Documents\Projects\data_scienece\streamlit_tutorial\env"
+VIRTUAL_ENV="C:\Users\mubar_dyaglyf\OneDrive\Documents\Projects\data_scienece\web_applications\streamlit_tutorial\env"
 export VIRTUAL_ENV
 
 _OLD_VIRTUAL_PATH="$PATH"
